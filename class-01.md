@@ -35,5 +35,16 @@
 
 ###### JavaScript, ABC of Programming
 
+* When writing a script, state your goal and then list the tasks needed in order to complete it.
+1. Define the goal.
+1. Design the script.
+1. Code each step.
+
+* Computers create models of the world using objects and properties.
+* An event is a way that people interact with objects.
+* A method represents the things people do with objects.
+* The Document Object represents the HTML page.
+* HTML is the content layer, CSS is the presentation layer, and JavaScript is the behavior layer.
+* The JavaScript file needs to be linked in the HTML file.
 
 

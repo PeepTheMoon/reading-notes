@@ -6,62 +6,62 @@ Structural markup: elements to describe headings and paragraphs.
 Semantic markup: extra info like emphasis, quotations, etc.
 
 ## Structural Markup css
-1. <h1> to <h6> </h>
+1. < h1 >
   Headings (<h1> is a main heading, with higher numbers being subheadings that decrease in size when displayed).
   
-2. <p> </p>
+2. < p >
  Paragraphs
   
-3. <b></b>
+3. < b >
   bold
 
-4.<i></i>
+4.< i >
   italics
   
-5. <sup>
+5. < sup >
   superscripts
 
-6. <sub>
+6. < sub >
   subscript
  
-7. <br />
+7. < br />
   line break
   
-8. <hr /> 
+8. < hr /> 
   horizontal rule (a horizontal line that separates elements.
   
 *You can use a visual editor to control the presentation of text.*
 *The info for whitespace collapsing on p.47 doesn't make sense to me based on the sample code*
 
 ### Semantic Markup- used inside elements css
-1. <strong>
+1. < strong >
   bold
   
-2. <em>
+2. < em >
   italics
   
-3. <blockquote> (used with cite attribute <blockquote cite="url">)
+3. < blockquote > (used with cite attribute < blockquote cite="url" >)
   for long quotes. Don't use to just indent a piece of text.
   
-4. <q> (used with cite attribute, doesn't work with Internet Explorer)
+4. < q > (used with cite attribute, doesn't work with Internet Explorer)
   used for shorter quotes 
   
-5. <abbr> (used with <abbr title="Professor">Prof</abbr>)
+5. < abbr > (used with < abbr title="Professor">Prof</abbr >)
   For both abbreviations and acronyms
   
-6. <cite>
+6. < cite >
   indicates where a citation is from when refrencing a piece of work like a book, film, research paper.  Renders these  elements in italics.
   
-7. <dfn>
+7. < dfn>
   indicates the defining instance of a new term (the first time you explain new terminology in a document)
   
-8. <address>
+8. < address>
   author details
   
-9. <ins> (underlines content) and <del> (crosses out content)
+9. < ins> (underlines content) and < del> (crosses out content)
   shows content that has been inserted and deleted, respectively.
   
-10. <s> (crosses out content)
+10. < s> (crosses out content)
   something no longer accurate or relevant but shouldn't be deleted. 
   
   

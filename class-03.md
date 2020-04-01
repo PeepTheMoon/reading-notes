@@ -72,6 +72,3 @@ Continue tells the interpreter to stop the current iteration, update, and check 
 Loops are commonly used with arrays.
 
 Avoid infinite loops!  Define all possible variables outside of the loop.  Be sure to return false at some point to break the loop.
-
-
-

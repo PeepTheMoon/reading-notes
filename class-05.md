@@ -24,6 +24,29 @@ opening online images in a new tan allows you to see the size
 <figure > element contains images and their captions < figcaption>
 
 ## HTML Chapter 11: “Color” (pp.246-263)
-Forms help capture data
+Foreground color specifies color for text inside an element.
+
+background color specifies for the container. 
+
+color can be picked by the rgb values, hex codes or names.
+
+saturation refers to gray in a color. 
+
+Brightness refers to how much black is in a color
+
+You can choose contrast to help make text more legible and opacity offers transparency.
+
+older browsers depend on the previously mentioned measure of color.  new ones can ise hsl and hsla colors.  put these rules after the others just in case the browser can't use them and has a fallback.
 
 ### HTML Chapter 12: “Text” (pp.264-299)
+
+appearance of text can be broken into two properties:
+1. Those that directly affect the appearance of the font
+2. those have the same effect on text no matter the font, like color and spacing between letters.
+
+typeface terms and help choosing one for the site(pp. 267-269).
+
+Type scales and units of type size (pp. 276-276).
+
+You can change the style of an element when a user hovers over or clicks on text or when they've visited  a link.
+

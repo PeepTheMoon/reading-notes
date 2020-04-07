@@ -20,6 +20,36 @@ IN list form:
 6. Use the this variable within methods so you can access the object's properties and methods from inside.
 
 ## HTML Chapter 6: “Tables” (pp.126-145)
+A table represents info in grid format.  Helps us to understand complex data by referencing info on two axes.
+< table>
+< tr> -table row
+< td> -table data
+< th> -table heading
+
+Span coloumns with < td colspan>
+Span rows with < td rowspan>
+
+For long tables, split the table into:
+< thead> -table headings
+< tbody> -table body
+< tfoot> -table foot
 
 ### JS Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+The new keyword and the object constructor create blank objects, and properties and methods can be added.  Update the value properties using dot notation or square brackets. You can use templates to create several objects that represent similar things.
 
+Arrays are objects. You can arrays of objects and objects in arrays.  There are also built in objects.
+1. Browser object model
+-Window
+--Document
+--History
+--Location
+--Navigator
+--Screen
+2. Document object model
+3. Global JavaScript objects
+-String
+-Boolean
+-Number
+-Date
+-Math
+-Regex

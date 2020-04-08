@@ -37,3 +37,7 @@ The property to get the total number of values in the storage area, and to itera
 
 If you call key() with an index that is not between 0–(length-1), the function will return null.
 
+The storge event keeps track of changes in the storage area
+
+5 megabytes is the default storage space, consistent across browsers.  You will get a OUTAH_EXCEEDED_ERR if you go over.
+

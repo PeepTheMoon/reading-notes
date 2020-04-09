@@ -28,4 +28,13 @@ Interactions crate events, events trigger code, and code responds to users.
 
  Event handlers and event listners help bind an event to an element.
 
- 
+Event flow is important if you have event handlers  
+ The event object tells you info about the event and and the element it happened upon.  
+
+ Creating event listners on a lot of element can slow down a page, but event flows allow you to listen for an event on a parent element.
+
+ You can use preventDefault() or stopPropagation() to change the default behavior of an element.
+
+ Good chart on p268 about event delegation.
+
+ binding is the process of stating which event you are waiting to happen and which elements you are waiting for that to happen upon.  

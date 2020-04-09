@@ -23,3 +23,9 @@ table properties include many of the same styling options for the rest of the pa
 You can style text input cells with icons.  You can also get help aligning form controls.
 
 ### JS Chapter 6: “Events” (pp.243-292)
+Interactions crate events, events trigger code, and code responds to users.
+ Types of events on p246-247
+
+ Event handlers and event listners help bind an event to an element.
+
+ 

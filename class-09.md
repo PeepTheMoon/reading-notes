@@ -16,5 +16,10 @@ You can label form controls and group form elements together in a box
 There are tools for fom validation.  
 
 ## HTML Chapter 14: “Lists, Tables & Forms” (pp.330-357)
+You can use images as bullet points!  There are options for making lists.
+
+table properties include many of the same styling options for the rest of the page. You can remove a border on an empty cell and put gaps between cells.
+
+You can style text input cells with icons.  You can also get help aligning form controls.
 
 ### JS Chapter 6: “Events” (pp.243-292)

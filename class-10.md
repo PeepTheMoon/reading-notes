@@ -17,4 +17,4 @@ If a JS statement generates an error, it throws an exception and looks for excep
 
 error objects help you find where your mistakes are. Among the info you'll get on p. 459-461.
 
-When debugging, try to narrow down the area where the problem is or might be.  you can write console statements to see how far your script is running. 
+When debugging, try to narrow down the area where the problem is or might be.  you can write console statements to see how far your script is running. Create breakpoints to see if the variables around them have the values you would expect them to.  If not, look earlier in the script.  Break things down into pieces.  write values of variables to the console, call functions to the console to see if they're returning the values you expect, check if objects exist and have the properties/methods you think they do.  Then check the items in an array, or the parameters in a function.  Repeat if necessary!  use browse dev tools and the javascript console!  

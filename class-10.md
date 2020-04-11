@@ -19,3 +19,14 @@ error objects help you find where your mistakes are. Among the info you'll get o
 
 When debugging, try to narrow down the area where the problem is or might be.  you can write console statements to see how far your script is running. Create breakpoints to see if the variables around them have the values you would expect them to.  If not, look earlier in the script.  Break things down into pieces.  write values of variables to the console, call functions to the console to see if they're returning the values you expect, check if objects exist and have the properties/methods you think they do.  Then check the items in an array, or the parameters in a function.  Repeat if necessary!  use browse dev tools and the javascript console!  
 
+Use breakpoints (in browser dev tools) to pause the execution of script and check code.  Multiple breakpoints allow you to step through code to see where values change and a problem might occur.  You can also set conditional breakpoints which create a breakpoint only when certain conditions are met.  
+
+You can use the keyword debugger: in JavaScript code to create a breakpoint, they can be used in conditional statements. You ust remeber to remove these!!
+
+Handling exceptions can be used:
+try, catch and finally p. 480-481
+
+You can also throw an error if you think something might go wrong.  
+
+Debugging tips p. 484-485
+
